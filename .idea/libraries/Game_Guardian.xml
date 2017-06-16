@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Game_Guardian">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Game_Guardian_jar/Game_Guardian.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

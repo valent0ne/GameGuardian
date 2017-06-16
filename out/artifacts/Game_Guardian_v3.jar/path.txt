@@ -1,0 +1,20 @@
+D:\Google Drive\Game Guardian Backups\
+E:\Game Guardian Backups\
+Uplay Saves
+D:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\savegames\f124df7d-a3e8-470d-b38a-6c4dc0518a3e
+Documents
+D:\Documents
+Saved Games
+D:\Saved Games
+Reloaded
+C:\ProgramData\Steam
+Reloaded (old)
+C:\ProgramData\RELOADED
+RLD Orbit
+C:\ProgramData\Orbit
+Codex
+C:\Users\valen\AppData\Roaming\Steam
+LOL Config
+D:\Games\League of Legends\Config
+2K Games
+C:\Users\valen\AppData\Local\2K Games

@@ -1,0 +1,12 @@
+D:\MEGAsync\Giochi\Game_Guardian\Test\DestCloud\
+D:\MEGAsync\Giochi\Game_Guardian\Test\DestHDD\
+uno
+D:\MEGAsync\Giochi\Game_Guardian\Test\uno
+due
+D:\MEGAsync\Giochi\Game_Guardian\Test\due
+tre
+D:\MEGAsync\Giochi\Game_Guardian\Test\tre
+quattro
+D:\MEGAsync\Giochi\Game_Guardian\Test\quattro
+cinque
+D:\MEGAsync\Giochi\Game_Guardian\Test\cinque

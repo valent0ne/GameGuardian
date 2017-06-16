@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Game_Guardian:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game_Guardian_v3.jar</output-path>
+    <root id="archive" name="Game_Guardian.jar">
+      <element id="module-output" name="Game_Guardian" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/artifacts/Game_Guardian_jar/Game_Guardian.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Game_Guardian" />
+    </root>
+  </artifact>
+</component>
